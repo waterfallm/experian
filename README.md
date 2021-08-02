@@ -1,5 +1,7 @@
-Note: npm install react-redux
-Do not pin  to 7.2.0
+Note: Do not pin react-redux to 7.2.0
+
+npm install react-redux
+
 
 Redux Tools
 
